@@ -2,6 +2,9 @@ dview-radio-group
 ![Release](https://jitpack.io/v/dora4/dview-radio-group.svg)
 --------------------------------
 
+![DORA视图 多选灵核](https://github.com/user-attachments/assets/c82c01c3-619e-41e1-a3f2-b79cc29c119a)
+
+
 ##### 卡名：Dora视图 RadioGroup 
 ###### 卡片类型：效果怪兽
 ###### 属性：水
