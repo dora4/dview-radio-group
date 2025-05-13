@@ -1,8 +1,7 @@
 dview-radio-group
 ![Release](https://jitpack.io/v/dora4/dview-radio-group.svg)
 --------------------------------
-
-![DORA视图 多选灵核](https://github.com/user-attachments/assets/c82c01c3-619e-41e1-a3f2-b79cc29c119a)
+![DORA视图 多选灵核](https://github.com/user-attachments/assets/0d56bfe1-0076-454b-becc-6a83791a3f8b)
 ![DORA视图 秩序使者](https://github.com/user-attachments/assets/5c1d0016-9ede-4ec9-92ca-400585f29d1c)
 
 ##### 卡名：Dora视图 RadioGroup 
