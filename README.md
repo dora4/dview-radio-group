@@ -1,16 +1,10 @@
 dview-radio-group
 ![Release](https://jitpack.io/v/dora4/dview-radio-group.svg)
 --------------------------------
+
+#### 卡片
 ![DORA视图 多选灵核](https://github.com/user-attachments/assets/0d56bfe1-0076-454b-becc-6a83791a3f8b)
 ![DORA视图 秩序使者](https://github.com/user-attachments/assets/5c1d0016-9ede-4ec9-92ca-400585f29d1c)
-
-##### 卡名：Dora视图 RadioGroup 
-###### 卡片类型：效果怪兽
-###### 属性：水
-###### 星级：5
-###### 种族：水族
-###### 攻击力/防御力：2100/2600
-###### 效果：此卡不会因为对方卡的效果而破坏，并可使其无效化。此卡攻击里侧守备表示的怪兽时，若攻击力高于其守备力，则给予对方此卡原攻击力的伤害，并抽一张卡。只要此卡在场上表侧表示存在，对方不能选择此卡之外的名字带有「Dora视图」的怪兽作为攻击对象。
 
 #### Gradle依赖配置
 
